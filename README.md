@@ -6,7 +6,7 @@ A country search box that displays live suggestions as you type using AJAX, jQue
 
 Watch the full step-by-step tutorial on YouTube:
 
-**[How to Build AJAX Autocomplete Search with jQuery, PHP & MySQL](https://www.youtube.com/@makitweb)**
+**[How to Build AJAX Autocomplete Search with jQuery, PHP & MySQL](https://youtu.be/2RtSHYnmysE)**
 
 ---
 
